@@ -5,8 +5,7 @@ For this project, I will use data cleaning, imputation, analysis, and visualizat
 ## Business Understanding
 Our company expands into the aviation sector, it is very important to begin with a clear understanding of the business objectives and associated risks. The primary goal is to identify and acquire aircraft that offer the lowest operational and safety risks while aligning with our strategic intent—whether in commercial passenger service, private charters, or both. This requires evaluating aircraft not just for initial cost, but for long-term reliability, safety record, regulatory compliance, and total cost of ownership. By establishing a strong foundation of risk-informed decision-making, we aim to ensure operational efficiency, protect our brand reputation, and position the aviation division for sustainable growth in a highly regulated and safety-sensitive industry.
 ## Data Understanding
-
-## Data Preparation
+The dataset contains aviation-related records that can be used to analyze incidents, accidents, and operational risks in the industry. It includes attributes such as the date and location of the event, aircraft type, operator, injury severity, and weather conditions. Understanding the distribution and relationship between these variables is essential for identifying trends, such as the most common causes of incidents, the aircraft models most frequently involved, or high-risk geographic areas.
 
 ## Analysis and Results/Recommendations
 
