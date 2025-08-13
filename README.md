@@ -10,6 +10,13 @@ Our company expands into the aviation sector, it is very important to begin with
 
 ## Analysis and Results/Recommendations
 
+![Distribution](images/imgp11.png)
+
+![Distribution](images/imgp12.png)
+
+![Distribution](images/imgp13.png)
+
+![Distribution](images/imgp14.png)
 1. Contrary to expectations, many accidents occured in favorable weather conditions VMC Strengthen training for pilots in all weather conditions
 2. Encourage commercial flights instead of personal flights
 3. Favor device with few serious accidents in the database.
